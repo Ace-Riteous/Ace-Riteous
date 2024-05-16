@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h4>🙋‍♂️Welcome! This is Riteous4️⃣0️⃣4️⃣.</h4>
 <p>📌 I'm a student in <I><b>ChongQing</b></I> .</p>
-<p>📌 I'm majoring in <I><b>Computer Science and Techlolog</b>y</I>.</p>
+<p>📌 I'm majoring in <I><b>Computer Science and Techlology</b></I>.</p>
 <p>🔭 Now I'm working on some projects with my freinds.</p>
 
 <h2>🌈 Hobbies</h2>
