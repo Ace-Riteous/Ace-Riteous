@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p>💙 <i><b>Jiao Maiqi</b></i> is my favorite singner!</p>
 
 <h2>📫 Contact Me</h2>
-<p>😋 My Google Email is: <b>dljh203103@google.com</b></p>
+<p>😋 My Google Email is: <b><i>dljh203103@google.com</i></b></p>
 
 
 
