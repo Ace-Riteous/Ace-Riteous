@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h2>🌈 Hobbies</h2>
 <p>👨‍💻 I like <I><b>Coding</b></I> and <I><b>Playing mobile games</b></I>, like <b>Genshin Impact</b>🅾🅿 and <b>Honkai: Star Rail</b>⭐🚂.</p>
-<p>🌱 I'm currently learning <i><b>GO</b></i>. It's really a fantastic language!</p>
+<p>🌱 I'm currently learning <i><b>GO</b></i>. It's a really fantastic language!</p>
 <p>🏊‍♂️ I also like <i><b>swiming</b></i>. Maybe because I study in 🏊‍♂️🧱(college for swim)?</p>
 <p>💙 <i><b>Jiao Maiqi</b></i> is my favorite singner!</p>
 
